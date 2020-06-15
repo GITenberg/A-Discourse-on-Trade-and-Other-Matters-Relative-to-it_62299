@@ -1,11 +1,16 @@
 _repo: A-Discourse-on-Trade-and-Other-Matters-Relative-to-it_62299
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cary, John
     gutenberg_agent_id: '51701'
     url: http://www.gutenberg.org/2009/agents/51701
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62299#A-Discourse-on-Trade-and-Other-Matters-Relative-to-it
 gutenberg_issued: '2020-06-01'
 gutenberg_type: Text
 identifiers:
